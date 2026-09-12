@@ -10,12 +10,12 @@ I am a **Process and Technology Leader with 13 years of experience** specializin
 | Layer | Technologies & Frameworks |
 | :--- | :--- |
 | **Backend Languages** | **Java** (Core, EE), **Python**, JavaScript, TypeScript, PL/SQL |
-| **Frameworks & Runtimes** | **Spring Boot**, **FastAPI**, Micronaut (GraalVM Native), Django, Spring MVC |
+| **Frameworks & Runtimes** | **Spring Boot**, **FastAPI**, Micronaut (GraalVM Native), Spring MVC |
 | **BPM & Orchestration** | **Camunda 7 CE**, IBM BAW, Savvion, BPMN 2.0 Process Modeling |
 | **Event & Messaging** | **Apache Kafka** (Async consumers, retry topologies), IBM MQ |
 | **Databases & Storage** | **PostgreSQL**, Azure Database for PostgreSQL, Oracle, MongoDB |
 | **Cloud & DevOps Infrastructure** | **Microsoft Azure**, **Terraform** (IaC), Docker, GitHub Actions CI/CD |
-| **Security & Integration** | REST/SOAP APIs, OAuth2, mTLS, F5 Load Balancing, Failsafe Frameworks |
+| **Security & Integration** | REST/SOAP APIs, OAuth2, mTLS, Failsafe Frameworks |
 
 ---
 
@@ -28,12 +28,12 @@ I am a **Process and Technology Leader with 13 years of experience** specializin
 
 ### 🚀 Featured Engineering Projects
 
-#### ⚡ [Enterprise API Orchestrator & Task Engine](https://github.com)
+#### ⚡ [Enterprise API Orchestrator & Task Engine]
 * **What it does:** Orchestrates core business capabilities using Camunda BPM workflows combined with high-speed microservices. 
 * **The Architecture:** Leverages a hybrid runtime environment where heavy compute microservices run on **Java/Spring Boot**, while lightweight, ultra-fast asynchronous routing triggers are handled by **Python/FastAPI**.
 * **Key Specs:** Event-driven event delivery via Apache Kafka, end-to-end mTLS security, and containerized using Docker.
 
-#### 📦 [Cloud-Native Data Ingestion Pipeline](https://github.com)
+#### 📦 [Cloud-Native Data Ingestion Pipeline]
 * **What it does:** Real-time event-driven data streaming engine mapping transactional changes across relational layers.
 * **The Architecture:** Engineered with **Python & FastAPI** as an ingestion layer backed by **Kafka consumer workers**, provisioning underlying database layers (Azure PostgreSQL) dynamically using **Terraform**.
 * **Key Specs:** Integrated structured logging, custom middleware validation, and full automation using GitHub Actions.
