@@ -13,7 +13,7 @@ I am a **Process and Technology Leader with 13 years of experience** specializin
 | **Frameworks & Runtimes** | **Spring Boot**, **FastAPI**, Micronaut (GraalVM Native), Spring MVC |
 | **BPM & Orchestration** | **Camunda 7 CE**, IBM BAW, Savvion, BPMN 2.0 Process Modeling |
 | **Event & Messaging** | **Apache Kafka** (Async consumers, retry topologies), IBM MQ |
-| **Databases & Storage** | **PostgreSQL**, Azure Database for PostgreSQL, Oracle, MongoDB |
+| **Databases & Storage** | **PostgreSQL**, Azure Database for PostgreSQL, Oracle |
 | **Cloud & DevOps Infrastructure** | **Microsoft Azure**, **Terraform** (IaC), Docker, GitHub Actions CI/CD |
 | **Security & Integration** | REST/SOAP APIs, OAuth2, mTLS, Failsafe Frameworks |
 
